@@ -1,0 +1,16 @@
+INT int
+ID main
+LP (
+RP )
+LB {
+INT int
+ID a
+ASSIGN =
+NUMBER 10
+SCOLON ;
+INT int
+ID b
+ASSIGN =
+NUMBER 20
+SCOLON ;
+RB }
