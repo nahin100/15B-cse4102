@@ -1,0 +1,24 @@
+Comment at line 1
+Comment at line 2
+Comment at line 3
+ok3
+ok2
+b 0
+Inserted b for the first time with linenumber 5!
+==============================
+type = 1
+names = 1
+no problem
+Comment at line 6
+Comment at line 7
+Comment at line 8
+ok3
+ok2
+i 0
+Inserted i for the first time with linenumber 10!
+i
+variable is declared before use!
+Comment at line 12
+Comment at line 13
+Comment at line 14
+Parsing finished!
