@@ -8,6 +8,10 @@ main:
 	# For windows user: 
 	# 1. run this makefile using "make" command
 	# 2. then run this command "a.out <full_example.c> output.txt 
+	# If problem still exists, follow this tutorial to switch
+	# from powershell.exe to cmd.exe by using this tutorial
+	# Link: https://stackoverflow.com/questions/42729130/visual-studio-code-how-to-switch-from-powershell-exe-to-cmd-exe/4375174
+
 	
 main2:
 	gcc main.c
